@@ -15,4 +15,6 @@
   <img align="center" alt="REACT" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </div> <br/>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dkerlon)](https://github.com/anuraghazra/github-readme-stats)
+
 ## E-mail para contato: *kerlonbrito0@gmail.com*
