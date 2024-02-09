@@ -2,7 +2,7 @@
 ### Olá! Eu sou o Kerlon 👋🏻
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kerlon_44)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/kerlon-aragão-516265276)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/kerlon-aragão)
 
 ![DKerlon GitHub stats](https://github-readme-stats.vercel.app/api?username=Dkerlon&show_icons=true&theme=dracula)
 
