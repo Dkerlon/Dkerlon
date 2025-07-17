@@ -11,7 +11,14 @@
 
 ###
 
-<p align="left">- 🔭 Estou em busca de um estágio<br>- 📚 Atualmente estou estudando backend com python<br>- ⚡ Amante de tecnologia em geral</p>
+<p align="left">
+- 🔭 Estou em busca de um estágio na área de desenvolvimento<br>
+- 🎓 Cursando Ciência da Computação<br>
+- 📚 Atualmente estudando backend com Python<br>
+- 🛠️ Tenho interesse em bancos de dados, APIs e boas práticas de programação<br>
+- 💡 Estou desenvolvendo projetos pessoais para aprender na prática<br>
+- ⚡ Amante de tecnologia em geral e sempre curioso por novas ferramentas e linguagens
+</p>
 
 ###
 <div align="center">
