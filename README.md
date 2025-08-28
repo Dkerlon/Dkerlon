@@ -14,8 +14,7 @@
 <p align="left">
 - 🔭 Estou em busca de um estágio na área de desenvolvimento<br>
 - 🎓 Cursando Ciência da Computação<br>
-- 📚 Atualmente estudando backend com Python<br>
-- 🛠️ Tenho interesse em bancos de dados, APIs e boas práticas de programação<br>
+- 📚 Atualmente estudando Vue.js e Tailwind Css<br>
 - 💡 Estou desenvolvendo projetos pessoais para aprender na prática<br>
 - ⚡ Amante de tecnologia em geral e sempre curioso por novas ferramentas e linguagens
 </p>
