@@ -1,52 +1,97 @@
-<h1 align="left">Olá 👋! Meu nome é Kerlon</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6272a4&height=180&section=header&text=Kerlon%20Aragão&fontSize=42&fontColor=f8f8f2&animation=fadeIn&fontAlignY=36&desc=Frontend%20Developer%20%7C%20CS%20Student&descAlignY=58&descColor=bd93f9" width="100%"/>
+</div>
 
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&width=600&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%F0%9F%8E%93;Apaixonado+por+Front-end+%F0%9F%96%A5%EF%B8%8F;Caminhando+para+o+Fullstack+%F0%9F%8C%90" alt="Typing SVG" />
 </div>
 
+<br/>
 
-###
-
-<h3 align="left">👩‍💻  Sobre mim</h3>
-
-###
-
-<p align="left">
-- 🔭 Estou em busca de um estágio na área de desenvolvimento<br>
-- 🎓 Cursando Ciência da Computação<br>
-- 📚 Atualmente estudando Vue.js e Tailwind Css<br>
-- 💡 Estou desenvolvendo projetos pessoais para aprender na prática<br>
-- ⚡ Amante de tecnologia em geral e sempre curioso por novas ferramentas e linguagens
-</p>
-
-###
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dkerlon&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dkerlon&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" height="180" alt="astronaut gif"/>
 </div>
 
-###
+---
+
+## 👨‍💻 Sobre mim
+
+```typescript
+const kerlon = {
+  localização:   "Brasil 🇧🇷",
+  formação:      "Ciência da Computação (em andamento) 🎓",
+  foco:          "Frontend → Fullstack",
+  buscando:      "Estágio em Desenvolvimento 🚀",
+  aprendendo:    ["NestJS", "Java", "CI/CD"],
+  curiosidade:   "Sempre explorando novas ferramentas e linguagens ⚡",
+};
+```
+
+---
+
+## 🛠️ Stack & Ferramentas
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
-  <img width="12" />
+
+**Front-end**
+
+<img src="https://img.shields.io/badge/Vue.js-282a36?style=for-the-badge&logo=vuedotjs&logoColor=42B883"/>
+<img src="https://img.shields.io/badge/TypeScript-282a36?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
+<img src="https://img.shields.io/badge/JavaScript-282a36?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-282a36?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC"/>
+
+**Back-end & DevOps**
+
+<img src="https://img.shields.io/badge/Node.js-282a36?style=for-the-badge&logo=nodedotjs&logoColor=339933"/>
+<img src="https://img.shields.io/badge/Express-282a36?style=for-the-badge&logo=express&logoColor=f8f8f2"/>
+<img src="https://img.shields.io/badge/React-282a36?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Prisma-282a36?style=for-the-badge&logo=prisma&logoColor=2D3748"/>
+<img src="https://img.shields.io/badge/Python-282a36?style=for-the-badge&logo=python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/Docker-282a36?style=for-the-badge&logo=docker&logoColor=2496ED"/>
+
 </div>
 
-###
+---
+
+## 🚀 Projeto em Destaque
+
+<a href="https://github.com/Dkerlon/ecommerce">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dkerlon&repo=ecommerce&theme=dracula&hide_border=true" />
+</a>
+
+> Projeto desenvolvido para consolidar habilidades com **Vue.js**, **Tailwind CSS** e **TypeScript** na prática.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Dkerlon&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dkerlon&layout=compact&theme=dracula&hide_border=true&langs_count=6" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Dkerlon&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=pt_BR" alt="GitHub Streak" />
+</div>
+
+---
+
+## 📬 Contato
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/kerlon-arag%C3%A3o/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/kerlon-aragão/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-282a36?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
   </a>
-  <a href="kerlonbrito0@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
+  <a href="mailto:kerlonbrito0@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-282a36?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
   </a>
+  <a href="https://github.com/Dkerlon" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-282a36?style=for-the-badge&logo=github&logoColor=f8f8f2"/>
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6272a4&height=100&section=footer&fontColor=f8f8f2" width="100%"/>
 </div>
