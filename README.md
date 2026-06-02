@@ -33,17 +33,6 @@ const kerlon = {
 
 [![Learning](https://skillicons.dev/icons?i=java,jenkins)](https://skillicons.dev)
 
----
-
-### 🚀 Projeto em Destaque
-
-<a href="https://github.com/Dkerlon/ecommerce">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dkerlon&repo=ecommerce&theme=dracula&hide_border=true" />
-</a>
-
-> Projeto desenvolvido para consolidar habilidades com **Vue.js**, **Tailwind CSS** e **TypeScript** na prática.
-
----
 
 ### 📊 GitHub Stats
 
