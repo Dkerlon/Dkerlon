@@ -17,7 +17,6 @@ const kerlon = {
   localização:   "Brasil 🇧🇷",
   formação:      "Ciência da Computação (em andamento) 🎓",
   foco:          "Frontend → Fullstack",
-  buscando:      "Estágio em Desenvolvimento 🚀",
   aprendendo:    ["NestJS", "Java", "CI/CD"],
   curiosidade:   "Sempre explorando novas ferramentas e linguagens ⚡",
 };
